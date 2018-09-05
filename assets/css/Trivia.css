@@ -1,0 +1,19 @@
+body{
+    background: url(https://i.imgur.com/9YGLaXm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.text-center {
+    width: 150px;
+    background: red;
+    -webkit-transition: background-color 2s ease-out;
+    -moz-transition: background-color 2s ease-out;
+    -o-transition: background-color 2s ease-out;
+    transition: background-color 2s ease-out;
+  }
+  
+  .text-center:hover {
+    background-color: green;
+   
